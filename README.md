@@ -1,76 +1,76 @@
 # 🤖 Bot IA – [botia.pro](https://botia.pro)
 
-> **Innovación local, impacto global.**  
-> Startup chiapaneca que transforma ideas en **soluciones digitales inteligentes**.
+> **Local innovation, global impact.**  
+> A Chiapas-based startup that transforms ideas into **intelligent digital solutions**.
 
 ---
 
-## 🌎 Quiénes somos
-Somos **Bot IA**, una startup fundada por un equipo de jóvenes apasionados por la tecnología e innovación, bajo la dirección del **Lic. Carlos Fernández Magallón**.  
-Nuestro propósito es ayudar a **empresas, emprendedores y personas** a crecer y automatizarse en un mundo cada vez más conectado.
+## 🌎 Who we are
+We are **Bot IA**, a startup founded by a team of young people passionate about technology and innovation, under the leadership of **Lic. Carlos Fernández Magallón**.  
+Our purpose is to help **businesses, entrepreneurs, and individuals** grow and automate in an increasingly connected world.
 
 ---
 
-## 🎯 Propósito
-**Democratizar la tecnología** con soluciones accesibles, creativas y escalables que impulsen la transformación digital en **Chiapas, México y el mundo**.
+## 🎯 Purpose
+**Democratize technology** with accessible, creative, and scalable solutions that drive digital transformation in **Chiapas, Mexico, and beyond**.
 
 ---
 
-## 👁️ Visión
-Ser la **startup de referencia en Latinoamérica** en automatización y desarrollo digital, demostrando que desde Chiapas se crean soluciones competitivas a nivel global.
+## 👁️ Vision
+To become the **leading startup in Latin America** in automation and digital development, proving that competitive global tech solutions can be created from Chiapas.
 
 ---
 
-## 🚀 Misión
-Diseñar e implementar:  
-- **Automatizaciones**  
-- **Páginas web**  
-- **Aplicaciones web**  
-- **Invitaciones digitales interactivas**  
+## 🚀 Mission
+To design and implement:  
+- **Automations**  
+- **Websites**  
+- **Web applications**  
+- **Interactive digital invitations**  
 
-Siempre con lo mejor de la **IA** y el **desarrollo ágil**, adaptados a cada cliente.
-
----
-
-## 💡 Nuestros valores
-- 🌱 Innovación local con impacto global  
-- 🎨 Creatividad y frescura juvenil  
-- ⚡ Compromiso con la eficiencia  
-- 🌐 Accesibilidad tecnológica  
-- 🤝 Transparencia y confianza  
+Always leveraging the best of **AI** and **agile development**, tailored to each client’s needs.
 
 ---
 
-## 🛠️ Servicios
-- 🤖 **Automatizaciones**: Chatbots, flujos inteligentes, integración de herramientas  
-- 🌐 **Páginas web**: Modernas, funcionales y optimizadas  
-- 📱 **Aplicaciones web**: Seguras, escalables y a medida  
-- 💌 **Invitaciones digitales**: Creativas e interactivas  
-- 🧠 **Consultoría en IA**: Inteligencia artificial aplicada a negocios  
+## 💡 Our values
+- 🌱 Local innovation with global impact  
+- 🎨 Creativity and youthful spirit  
+- ⚡ Commitment to efficiency  
+- 🌐 Technological accessibility  
+- 🤝 Transparency and trust  
 
 ---
 
-## ✨ Nuestra esencia
-> “En **Bot IA**, la innovación nace en Chiapas.  
-> Transformamos ideas en **soluciones digitales inteligentes**: desde automatizaciones hasta aplicaciones web.  
-> Con creatividad, eficiencia y cercanía, llevamos tu negocio hacia el futuro.”
+## 🛠️ Services
+- 🤖 **Automations**: Chatbots, intelligent flows, tool integrations  
+- 🌐 **Websites**: Modern, functional, and optimized designs  
+- 📱 **Web applications**: Secure, scalable, and custom solutions  
+- 💌 **Digital invitations**: Creative and interactive experiences  
+- 🧠 **AI consulting**: Practical applications of artificial intelligence for business  
 
 ---
 
-## 📈 Nuestra evolución en GitHub
-¡Así crece nuestra comunidad commit a commit! 🟩⬛  
+## ✨ Our essence
+> “At **Bot IA**, innovation is born in Chiapas.  
+> We transform ideas into **intelligent digital solutions**: from automations to web applications.  
+> With creativity, efficiency, and closeness, we take your business into the future.”
+
+---
+
+## 📈 Our GitHub growth
+This is how our community grows, commit by commit 🟩⬛  
 
 ![GitHub Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🔎 Interés en nuestra comunidad
-¡Gracias por visitarnos! Este contador refleja cuántas personas han explorado nuestro espacio 🚀  
+## 🔎 Community interest
+Thank you for visiting! This counter reflects how many people have explored our space 🚀  
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=botiapro.botiapro)
 
 ---
 
-## 📫 Conéctanos
+## 📫 Contact us
 🌐 [botia.pro](https://botia.pro)  
 📧 smartiaautomatiza@proton.me  
