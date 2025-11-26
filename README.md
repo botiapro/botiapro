@@ -1,18 +1,18 @@
-# 🤖 Bot IA – [botia.pro](https://botia.pro)
+# 🤖 CENTER AI.PRO – [centerai.pro](https://botia.pro)
 
 > **Local innovation, global impact.**  
-> A Chiapas-based startup that transforms ideas into **intelligent digital solutions**.
+> A startup that transforms ideas into **intelligent digital solutions**.
 
 ---
 
 ## 🌎 Who we are
-We are **Bot IA**, a startup founded by a team of young people passionate about technology and innovation, under the leadership of **Lic. Carlos Fernández Magallón**.  
+We are **CENTER AI.PRO**, a startup founded by a team of young people passionate about technology and innovation, under the leadership of **Lic. Carlos Fernández Magallón**.  
 Our purpose is to help **businesses, entrepreneurs, and individuals** grow and automate in an increasingly connected world.
 
 ---
 
 ## 🎯 Purpose
-**Democratize technology** with accessible, creative, and scalable solutions that drive digital transformation in **Chiapas, Mexico, and beyond**.
+**Democratize technology** with accessible, creative, and scalable solutions that drive digital transformation.
 
 ---
 
@@ -51,7 +51,7 @@ Always leveraging the best of **AI** and **agile development**, tailored to each
 ---
 
 ## ✨ Our essence
-> “At **Bot IA**, innovation is born in Chiapas.  
+> “At **CENTER AI.PRO**, innovation is born in Chiapas.  
 > We transform ideas into **intelligent digital solutions**: from automations to web applications.  
 > With creativity, efficiency, and closeness, we take your business into the future.”
 
@@ -67,10 +67,10 @@ This is how our community grows, commit by commit 🟩⬛
 ## 🔎 Community interest
 Thank you for visiting! This counter reflects how many people have explored our space 🚀  
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=botiapro.botiapro)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=centeraipro.centeraipro)
 
 ---
 
 ## 📫 Contact us
-🌐 [botia.pro](https://botia.pro)  
+🌐 [botia.pro](https://centerai.pro)  
 📧 smartiaautomatiza@proton.me  
